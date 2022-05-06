@@ -15,7 +15,7 @@
     "whatsapp-bot",
     "wa-bot"
   ],
-  "author": "Thoriq Azzikra",
+  "author": "M imam Adi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Urbaexyz/whatsapp-bot/issues"
@@ -69,9 +69,7 @@
     "translatte": "^3.0.1",
     "waifu.pics-wrapper": "^1.0.0",
     "xfarr-api": "^1.0.3",
-    "xteam-api": "^0.0.7",
-    "yt-search": "^2.10.3",
-    "ytdl-core": "^4.11.0"
+    "xteam-api": "^0.0.7"
   },
   "directories": {
     "lib": "lib"
