@@ -76,7 +76,6 @@ const {
 	translate,
 	getLocationData,
 	images,
-	yt,
 	resep,
 	rugaapi,
 	scrape,
